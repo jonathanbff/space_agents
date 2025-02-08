@@ -1,6 +1,5 @@
 streamlit
 plotly
-requests
 pandas
 numpy
 xgboost
@@ -8,3 +7,5 @@ scikit-learn
 python-dotenv
 transformers
 torch
+pydeck 
+cesiumpy  
